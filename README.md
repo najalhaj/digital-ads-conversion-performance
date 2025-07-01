@@ -31,7 +31,7 @@ The dataset used in this project is a sample from the Capstone Project of the "[
 ## Deliverables
 
 * **Analysis Notebook:** A Jupyter Notebook detailing the data cleaning, exploratory data analysis, A/B testing implementation, statistical analysis, and interim findings.
-* **Summary Report:** A concise report summarizing the key findings, conclusions, and recommendations based on the A/B test results (available in [PDF](http://reports/summary.pdf) format).
+* **Summary Report:** A concise report summarizing the key findings, conclusions, and recommendations based on the A/B test results (available in [PDF](reports/summary.pdf) format).
 
 ## Key Findings
 
